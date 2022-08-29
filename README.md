@@ -15,7 +15,7 @@ Or if you'd rather support my bussiness buy some candy over at [Candy By Sweden]
 - [Melee symbol map util](https://github.com/filiphsps/openmelee-symbol-map-converter) (2019) A utility script to help reverse-engineer Super Smash Bros: Melee.
 - [cordova-plugin-context-menu](https://github.com/filiphsps/cordova-plugin-context-menu) (2016-2017) A Cordova context menu.
 - [swiftsnapper](https://github.com/filiphsps/swiftsnapper) (2016) SnapChat client for Windows 10 Mobile.
-- [NinUI](https://github.com/filfat/NinUI) (2015-2017) Simple UI library for the Nintendo 3DS.
+- [NinUI](https://github.com/filiphsps/NinUI) (2015-2017) Simple UI library for the Nintendo 3DS.
 - And a lot more...
 
 ## Noteable contributions to open source
