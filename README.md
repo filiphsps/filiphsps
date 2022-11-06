@@ -25,3 +25,4 @@ Or if you'd rather support my bussiness buy some candy over at [Candy By Sweden]
 - [cordova-music-controls-plugin](https://github.com/homerours/cordova-music-controls-plugin/pull/16) (2015) Added Windows 10 Mobile support.
 
 ![Filiph Sandströms's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiphsps&count_private=true&show_icons=true&theme=dark)
+![](https://hit.yhype.me/github/profile?user_id=108444335)
