@@ -8,8 +8,7 @@
 Welcome to my GitHub page. I've spent quite a lot of time contributing to open source and managing projects.
 So I'm sure you'll find something interesting here!
 
-If you're looking to get in contact with me you do so through [my email](mailto:filiph.sandstrom@filfatstudios.com).
-
-Or if you'd rather support my bussiness buy some candy over at [Candy By Sweden](https://candybysweden.com) 🚀
+Feel free to get in contact with me through my [email](mailto:filiph.sandstrom@filfatstudios.com) or [twitter](https://twitter.com/filiphsandstrom).
+Or if you'd rather support my side-bussiness you can always buy some candy over at [Candy By Sweden](https://candybysweden.com) 🚀
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
