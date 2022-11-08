@@ -1,4 +1,5 @@
-# Y'all, I'm Filiph Siitam Sandström; a fullstack software engineer 💻
+<h1>Hey y'all, I'm Filiph.<br/>A fullstack software engineer 💻</h1>
+
 [![GitHub](https://img.shields.io/badge/GitHub-%40filiphsps-239a3b.svg)](https://github.com/filiphsps)
 [![Twitter](https://img.shields.io/badge/Twitter-%40filiphsandstrom-58a1f2.svg)](https://twitter.com/filiphsandstrom)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/filiphsandstrom/)
