@@ -13,7 +13,6 @@
 I'm Filiph, a fullstack developer born and rasied in Sweden 🇸🇪
 
 Feel free to get in contact with me through my [email](mailto:filiph.sandstrom@filfatstudios.com) or [twitter](https://twitter.com/filiphsandstrom).
-Or if you'd rather support my side-bussiness you can always buy some candy over at [Candy By Sweden](https://candybysweden.com) 🚀
 
 // Filiph Siitam Sandström
 
