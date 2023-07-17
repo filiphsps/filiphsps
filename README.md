@@ -14,7 +14,7 @@ I'm Filiph, a fullstack developer born and rasied in Sweden 🇸🇪
 
 Feel free to get in contact with me through my [email](mailto:filiph.sandstrom@filfatstudios.com) or [twitter](https://twitter.com/filiphsandstrom).
 
-You can support me directly by buying som candy over at my store [Sweet Side of Sweden](https://www.sweetsideofsweden.com).
+You can support me directly by buying som candy over at my store [Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md).
 
 // Filiph Siitam Sandström
 
