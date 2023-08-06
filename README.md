@@ -10,12 +10,10 @@
 </div>
 
 #### Hey y'all!
-I'm Filiph, a fullstack developer born and rasied in Sweden 🇸🇪
+I'm Filiph, a product engineer and software developer born and rasied in Sweden 🇸🇪
+If you like any of my work and want to support me you can do so by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md).
 
-Feel free to get in contact with me through my [email](mailto:filiph.sandstrom@filfatstudios.com) or [twitter](https://twitter.com/filiphsandstrom).
-
-You can support me directly by buying som candy over at my store [Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md).
-
+Feel free to get in contact with me through my email or [twitter](https://twitter.com/filiphsandstrom) if you need to!  
 // Filiph Siitam Sandström
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
