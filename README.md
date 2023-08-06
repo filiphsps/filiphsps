@@ -1,19 +1,56 @@
-![Filiph Sandström Banner](header.svg)
-
+<img src="header.svg" alt="Filiph Sandström Banner" />
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40filiphsps-239a3b.svg?style=for-the-badge)](https://github.com/filiphsps)
-[![Twitter](https://img.shields.io/badge/Twitter-%40filiphsandstrom-58a1f2.svg?style=for-the-badge)](https://twitter.com/filiphsandstrom)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg?style=for-the-badge)](https://www.linkedin.com/in/filiphsandstrom/)
-[![Profile Views](https://komarev.com/ghpvc/?username=filiphsps&color=yellow&style=for-the-badge)](https://github.com/filiphsps)
-
+    <a href="https://github.com/filiphsps">
+        <img src="https://img.shields.io/badge/GitHub-%40filiphsps-239a3b.svg?style=for-the-badge" alt="GitHub"  />
+    </a>
+    <a href="https://twitter.com/filiphsandstrom">
+        <img src="https://img.shields.io/badge/Twitter-%40filiphsandstrom-58a1f2.svg?style=for-the-badge" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/filiphsandstrom/">
+        <img src="https://img.shields.io/badge/Linked-in-0c66c3.svg?style=for-the-badge" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/filiphsps">
+        <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow&style=for-the-badge" alt="Profile Views" />
+    </a>
 </div>
 
-#### Hey y'all!
-I'm Filiph, a product engineer and software developer born and rasied in Sweden 🇸🇪
-If you like any of my work and want to support me you can do so by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md).
+# 🤠 Hi, I'm Filiph Siitam Sandström
 
-Feel free to get in contact with me through my email or [twitter](https://twitter.com/filiphsandstrom) if you need to!  
-// Filiph Siitam Sandström
+## 📖 Filiph Summarized
+
+Howdy y'all! I'm Filiph Sandström[^1:1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. I currently work as a consultant when I'm healthy enough[^1:2] on various web/e-commerce projects[^1:3].
+
+My open source presence mainly consists of working on whatever I find interesting at that specific moment and have happened to grab my attention, so you can never really know what kind of projects the future holds for me.
+
+[^1:1]: Sometimes (often previously) known under the alias `filfat`, mostly from way back in the day and mainly on homebrew forums like [gbatemp](https://gbatemp.net/members/filfat.318416/).
+[^1:2]: Burnout-variant-ish as a result of a pre-existing diagnoses that was set of by a series of extreme events and a more than decade long previously manageable depression currently leaving me unable to do a lot of things like full-time and maybe even part-time.
+[^1:3]: There's a [Support My Work](#-support-my-work) section further down under the summarization section if you're kind enough to want to help out 💛
+
+## 🗃️ Partial Summary of My Projects
+
+Since starting out with software development as a very young kid[^2:1], I have pretty much managed to work on everything and anything from homebrew apps and games[^2:2], to a _(really bad)_[^2:3] HTML renderer [NXTBrowser](https://github.com/filiphsps/NXTBrowser), to the Minecraft Bedrock Edition server software [JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) written entirely in TypeScript, to react components like [react-tender](https://github.com/sweet-side-of-sweden/react-tender) and utilities like [react-shopify-analytics](https://github.com/sweet-side-of-sweden/react-shopify-analytics), to just useful and simple [npm packages](https://www.npmjs.com/~filiphsandstrom), to a operating system [SerenityOS](https://github.com/SerenityOS/serenity/commits/master/?author=filiphsps), to a Windows Shell replacement with live-tiles [AdaptiveShell](https://github.com/filiphsps/AdaptiveShell).
+
+[^2:1]: I started coding at 7 or 8 years old though I didn't really do anything before around the age of 10/11.
+[^2:2]: e.g. [WiiCraft](https://github.com/filiphsps/WiiCraft) and [DownloadMii](https://github.com/filiphsps/DownloadMii-3DS), projects I used to work on in my free time as a young-ish teenager.
+[^2:3]: Citation Needed, [xkcd 285](https://xkcd.com/285/).
+
+## 👀 Upcoming and Planned Projects
+
+I currently have not made any plans at the project scale, but I have some plans in a much smaller and more abstract way than being fully realized projects.
+
+- **Live-Tiles**. If that is continuing the jetpack compose android launcher I contributed a bit to, if it's AdaptiveShell or even if it's something completely different; I don't know yet, I just want to do something with Live-Tiles.
+- **SerenityOS**. Any of these are possible that I work on. maybe, maybe not?
+  - Improve `StylePainter`, to add a modern flat one as an option.
+  - Vertical `Taskbar`, not something I personally use, but might be fun to build.
+  - Real `Services`, a service management system similar to what was proposed in [#6315](https://github.com/SerenityOS/serenity/pull/6315).
+  - Complete `Devices`, devicemanager-ish but 98 style that I prototyped nov 22 [picture](https://cdn.discordapp.com/attachments/830522505605283866/1047590886395093104/image.png) & [branch](https://github.com/SerenityOS/serenity/compare/master...filiphsps:serenity:dev-devmgmt).
+
+## 🤩 Support My Work
+
+If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either but preferably by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful during my current (awful) financial situation** 💛💛
+
+## ☎️ Get in Contact With Me
+
+The best way to get in contact with me is either through _filiph.sandstrom[at]filfatstudios.com_ or for non-business related inquires better yet on [Twitter](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
