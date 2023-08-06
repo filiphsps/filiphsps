@@ -38,12 +38,13 @@ Since starting out with software development as a very young kid[^2:1], I have p
 
 I currently have not made any plans at the project scale, but I have some plans in a much smaller and more abstract way than being fully realized projects.
 
-- **Live-Tiles**. If that is continuing the jetpack compose android launcher I contributed a bit to, if it's AdaptiveShell or even if it's something completely different; I don't know yet, I just want to do something with Live-Tiles.
-- **SerenityOS**. Any of these are possible that I work on. maybe, maybe not?
+- **Live-Tiles**. If that is continuing the jetpack compose android launcher I contributed a bit to. Or if it's AdaptiveShell or even if it's something completely different; I don't know yet, I just want to do something with Live-Tiles.
+- **SerenityOS**. Any of these are possible that I work on. Maybe, maybe not?
   - Improve `StylePainter`, to add a modern flat one as an option.
   - Vertical `Taskbar`, not something I personally use, but might be fun to build.
   - Real `Services`, a service management system similar to what was proposed in [#6315](https://github.com/SerenityOS/serenity/pull/6315).
   - Complete `Devices`, devicemanager-ish but 98 style that I prototyped nov 22 [picture](https://cdn.discordapp.com/attachments/830522505605283866/1047590886395093104/image.png) & [branch](https://github.com/SerenityOS/serenity/compare/master...filiphsps:serenity:dev-devmgmt).
+- **WiiCraft**. About time we gave it justice after all these years with a half-decent `DSCraft`-scope version. Unlikely any time soon though as I don't really feel any motivation for such a project.
 
 ## 🤩 Support My Work
 
