@@ -18,13 +18,11 @@
 
 ## 📖 Filiph Summarized
 
-Howdy y'all! I'm Filiph Sandström[^1:1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. I currently work as a consultant when I'm healthy enough[^1:2] on various web/e-commerce projects[^1:3].
+Howdy y'all! I'm Filiph Sandström[^1:1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪.
 
 My open source presence mainly consists of working on whatever I find interesting at that specific moment and have happened to grab my attention, so you can never really know what kind of projects the future holds for me.
 
 [^1:1]: Sometimes (often previously) known under the alias `filfat`, mostly from way back in the day and mainly on homebrew forums like [gbatemp](https://gbatemp.net/members/filfat.318416/).
-[^1:2]: Burnout-variant-ish as a result of a pre-existing diagnoses that was set of by a series of extreme events and a more than decade long previously manageable depression currently leaving me unable to do a lot of things like full-time and maybe even part-time.
-[^1:3]: There's a [Support My Work](#-support-my-work) section further down under the summarization section if you're kind enough to want to help out 💛
 
 ## 🗃️ Partial Summary of My Projects
 
@@ -48,7 +46,7 @@ I currently have not made any plans at the project scale, but I have some plans 
 
 ## 🤩 Support My Work
 
-If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either but preferably by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful during my current (awful) financial situation** 💛💛
+If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either but preferably by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** 💛💛
 
 ## ☎️ Get in Contact With Me
 
