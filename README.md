@@ -18,7 +18,7 @@
 
 ## 📖 Filiph Summarized
 
-Howdy y'all! I'm Filiph Sandström[^1:1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪.
+Howdy y'all! I'm Filiph Sandström[^1:1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. Currently on a mission to elevate and improve e-commerce through @NordcomInc, come join us!
 
 My open source presence mainly consists of working on whatever I find interesting at that specific moment and have happened to grab my attention, so you can never really know what kind of projects the future holds for me.
 
