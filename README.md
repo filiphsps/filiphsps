@@ -1,16 +1,16 @@
 <img src="header.svg" alt="Filiph Sandström Banner" />
 <div align="center">
     <a href="https://github.com/filiphsps">
-        <img src="https://img.shields.io/badge/GitHub-%40filiphsps-239a3b.svg?style=for-the-badge" alt="GitHub"  />
+        <img src="https://img.shields.io/badge/GitHub-%40filiphsps-239a3b.svg" alt="GitHub"  />
     </a>
     <a href="https://twitter.com/filiphsandstrom">
-        <img src="https://img.shields.io/badge/Twitter-%40filiphsandstrom-58a1f2.svg?style=for-the-badge" alt="Twitter" />
+        <img src="https://img.shields.io/badge/Twitter-%40filiphsandstrom-58a1f2.svg" alt="X (Twitter)" />
     </a>
     <a href="https://www.linkedin.com/in/filiphsandstrom/">
-        <img src="https://img.shields.io/badge/Linked-in-0c66c3.svg?style=for-the-badge" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/Linked-In-0c66c3.svg" alt="LinkedIn" />
     </a>
     <a href="https://github.com/filiphsps">
-        <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow&style=for-the-badge" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow" alt="Profile Views" />
     </a>
 </div>
 
