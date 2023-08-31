@@ -34,7 +34,7 @@ Since starting out with software development as a very young kid[^2], I have pre
 
 ## 👀 Upcoming and Planned Projects
 
-I currently have not made any plans at the project scale, but I have some plans in a much smaller and more abstract way than being fully realized projects.
+These are just ideas at the moment, which may or may not get worked on in the future.
 
 - **Live-Tiles**. If that is continuing the jetpack compose android launcher I contributed a bit to. Or if it's AdaptiveShell or even if it's something completely different; I don't know yet, I just want to do something with Live-Tiles.
 - **SerenityOS**. Any of these are possible that I work on. Maybe, maybe not?
