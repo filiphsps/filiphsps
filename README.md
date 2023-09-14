@@ -12,6 +12,9 @@
     <a href="https://github.com/filiphsps">
         <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow" alt="Profile Views" />
     </a>
+    <a href="https://wakatime.com/@c7ebec34-9b91-4b7f-bf49-846cb40584ac">
+        <img src="https://wakatime.com/badge/user/c7ebec34-9b91-4b7f-bf49-846cb40584ac.svg" alt="Total time coded since Nov 6 2022" />
+    </a>
 </div>
 
 # 🤠 Hi, I'm Filiph Siitam Sandström
