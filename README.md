@@ -35,24 +35,19 @@ Since starting out with software development as a very young kid[^2], I have pre
 [^3]: e.g. [WiiCraft](https://github.com/filiphsps/WiiCraft) and [DownloadMii](https://github.com/filiphsps/DownloadMii-3DS), projects I used to work on in my free time as a young-ish teenager.
 [^4]: Citation Needed, [xkcd 285](https://xkcd.com/285/).
 
-## 👀 Upcoming and Planned Projects
+## 👀 My Current Open Source Adventures
 
-These are just ideas at the moment, which may or may not get worked on in the future.
-
-- **Live-Tiles**. If that is continuing the jetpack compose android launcher I contributed a bit to. Or if it's AdaptiveShell or even if it's something completely different; I don't know yet, I just want to do something with Live-Tiles.
-- **SerenityOS**. Any of these are possible that I work on. Maybe, maybe not?
-  - Improve `StylePainter`, to add a modern flat one as an option.
-  - Vertical `Taskbar`, not something I personally use, but might be fun to build.
-  - Real `Services`, a service management system similar to what was proposed in [#6315](https://github.com/SerenityOS/serenity/pull/6315).
-  - Complete `Devices`, devicemanager-ish but 98 style that I prototyped nov 22 [picture](https://cdn.discordapp.com/attachments/830522505605283866/1047590886395093104/image.png) & [branch](https://github.com/SerenityOS/serenity/compare/master...filiphsps:serenity:dev-devmgmt).
-- **WiiCraft**. About time we gave it justice after all these years with a half-decent `DSCraft`-scope version. Unlikely any time soon though as I don't really feel any motivation for such a project.
+- [Nordy](https://github.com/NordcomInc/nordy): A Discord integration to let server admins manage and write README channels usign markdown and version control. 
+- [devcontainer-features](https://github.com/NordcomInc/devcontainer-features): Various `.devcontainer` features to help simplify containerization.
+- [nordcom](https://github.com/NordcomInc?q=&type=public&language=&sort=): Bunch of minor projects and packages created as a part of or thanks to a startup we're building.
+- [and more](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Afiliphsps&type=pullrequests&s=comments&o=desc).
 
 ## 🤩 Support My Work
 
-If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** 💛💛
+If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source!
 
 ## ☎️ Get in Contact With Me
 
-The best way to get in contact with me is either through _filiph.sandstrom[at]filfatstudios.com_ or for non-business related inquires better yet on [Twitter](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
+The best way to get in contact with me is either through _filiph.sandstrom[at]filfatstudios.com_ or for non-business related inquires better yet on [X (Twitter)](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
