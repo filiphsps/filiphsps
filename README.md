@@ -28,7 +28,7 @@ My open source presence mainly consists of working on whatever I find interestin
 <!---
 ### How We Got Here
 
-Since starting out with software development as a very young kid[^2], I have pretty much managed to work on everything and anything from homebrew apps and games[^3], to a _(really bad)_[^4] HTML renderer [NXTBrowser](https://github.com/filiphsps/NXTBrowser), to the Minecraft Bedrock Edition server software [JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) written entirely in TypeScript, to react components like [react-tender](https://github.com/sweet-side-of-sweden/react-tender) and utilities like [react-shopify-analytics](https://github.com/sweet-side-of-sweden/react-shopify-analytics), to just useful and simple [npm packages](https://www.npmjs.com/~filiphsandstrom), to a operating system [SerenityOS](https://github.com/SerenityOS/serenity/commits/master/?author=filiphsps), to a Windows Shell replacement with live-tiles [AdaptiveShell](https://github.com/filiphsps/AdaptiveShell).
+Since starting out with software development as a very young kid[^2], I have pretty much managed to work on everything and anything from homebrew apps and games[^3], to a _(really bad)_[^4] HTML renderer [NXTBrowser](https://github.com/filiphsps/NXTBrowser), to the Minecraft Bedrock Edition server software [JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) written entirely in TypeScript, to react components like [react-tender](https://github.com/NordcomInc/react-tender) and utilities like [react-shopify-analytics](https://github.com/NordcomInc/react-shopify-analytics), to just useful and simple [npm packages](https://www.npmjs.com/~filiphsandstrom), to a operating system [SerenityOS](https://github.com/SerenityOS/serenity/commits/master/?author=filiphsps), to a Windows Shell replacement with live-tiles [AdaptiveShell](https://github.com/filiphsps/AdaptiveShell).
 
 [^2]: I started coding at 7 or 8 years old though I didn't really do anything before around the age of 10/11.
 [^3]: e.g. [WiiCraft](https://github.com/filiphsps/WiiCraft) and [DownloadMii](https://github.com/filiphsps/DownloadMii-3DS), projects I used to work on in my free time as a young-ish teenager.
@@ -43,7 +43,7 @@ Since starting out with software development as a very young kid[^2], I have pre
 
 ## Sponsor My Work
 
-If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either by buying [Swedish candy from Sweet Side of Sweden](https://www.sweetsideofsweden.com/?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source!
+If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either by buying [Swedish candy from the Swedish Candy Store](https://swedish-candy-store.com//?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source
 
 ## Contact
 
