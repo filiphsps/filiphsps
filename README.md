@@ -37,7 +37,7 @@ Since starting out with software development as a very young kid[^2], I have pre
 
 ## Current Open Source Project(s)
 
-- [nordstar](https://github.com/NordcomInc/nordstar): Nordcom Group Inc.'s component library. A modern, accessible, beautiful, and flexible design system for building human user interfaces in Next.js.
+- [nordstar](https://github.com/NordcomInc/nordstar): Nordcom AB's component library. A modern, accessible, beautiful, and flexible design system for building human user interfaces in Next.js.
 - [nordcom](https://github.com/NordcomInc?q=&type=public&language=&sort=): Bunch of minor projects and packages created as a part of or thanks to a startup we're building.
 - [and more](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Afiliphsps&type=pullrequests&s=comments&o=desc).
 
