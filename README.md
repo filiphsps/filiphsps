@@ -19,7 +19,7 @@
 
 # I'm Filiph
 
-Howdy y'all! I'm Filiph Sandström[^1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. Currently on a mission to elevate and improve e-commerce through [@NordcomInc](https://github.com/NordcomInc) while also creating great open source software and tooling, come join us!
+Howdy y'all! I'm Filiph Sandström[^1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. Currently on a mission to elevate and improve e-commerce while also creating great open source software and tooling!
 
 My open source presence mainly consists of working on whatever I find interesting at that specific moment and have happened to grab my attention, so you can never really know what kind of projects the future holds for me.
 
@@ -35,7 +35,7 @@ Since starting out with software development as a very young kid[^2], I have pre
 [^4]: Citation Needed, [xkcd 285](https://xkcd.com/285/).
 --->
 
-## Current Open Source Project(s)
+## Some Open Source Project(s)
 
 - [nordstar](https://github.com/NordcomInc/nordstar): Nordcom AB's component library. A modern, accessible, beautiful, and flexible design system for building human user interfaces in Next.js.
 - [nordcom](https://github.com/NordcomInc?q=&type=public&language=&sort=): Bunch of minor projects and packages created as a part of or thanks to a startup we're building.
@@ -43,7 +43,7 @@ Since starting out with software development as a very young kid[^2], I have pre
 
 ## Sponsor My Work
 
-If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me either by buying [Swedish candy from the Swedish Candy Store](https://swedish-candy-store.com//?utm_source=GitHub&utm_campaign=opensource&utm_content=filiphsps/README.md) (a side-business I run with a few friends) or through [GitHub Sponsors](https://github.com/sponsors/filiphsps). Either way it's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source
+If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me through [GitHub Sponsors](https://github.com/sponsors/filiphsps). It's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source!
 
 ## Contact
 
