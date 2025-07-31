@@ -9,12 +9,6 @@
     <a href="https://www.linkedin.com/in/filiphsandstrom/">
         <img src="https://img.shields.io/badge/Linked-In-0c66c3.svg" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/filiphsps">
-        <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow" alt="Profile Views" />
-    </a>
-    <a href="https://wakatime.com/@c7ebec34-9b91-4b7f-bf49-846cb40584ac">
-        <img src="https://wakatime.com/badge/user/c7ebec34-9b91-4b7f-bf49-846cb40584ac.svg" alt="Total time coded since Nov 6 2022" />
-    </a>
 </div>
 
 # I'm Filiph
@@ -50,3 +44,13 @@ If you like any of my open source work and enable me to spend even more time on 
 The best way to get in contact with me is either through _filiph.sandstrom[at]filfatstudios.com_ or for non-business related inquires better yet on [X (Twitter)](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
+
+<div align="center">
+    <a href="https://github.com/filiphsps">
+        <img src="https://komarev.com/ghpvc/?username=filiphsps&color=yellow" alt="Profile Views" />
+    </a>
+    <a href="https://wakatime.com/@c7ebec34-9b91-4b7f-bf49-846cb40584ac">
+        <img src="https://wakatime.com/badge/user/c7ebec34-9b91-4b7f-bf49-846cb40584ac.svg" alt="Total time coding as tracked by WakaTime (not close to complete)" />
+    </a>
+</div>
+</br>
