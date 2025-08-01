@@ -11,37 +11,30 @@
     </a>
 </div>
 
-# I'm Filiph
+# I'm Filiph!
 
-Howdy y'all! I'm Filiph Sandström[^1], a product engineer and (open source) software developer born 2000 in Sweden 🇸🇪. Currently on a mission to elevate and improve e-commerce while also creating great open source software and tooling!
+Howdy y'all! I'm Filiph Sandström, a software engineer and open source developer born 2000 in Sweden 🇸🇪!
 
-My open source presence mainly consists of working on whatever I find interesting at that specific moment and have happened to grab my attention, so you can never really know what kind of projects the future holds for me.
+> [!TIP]
+> If you like any of my open source projects cursed or not and also want to enable me to spend even more time on them, you can support me through [GitHub Sponsors](https://github.com/sponsors/filiphsps). It's more appreciated than you know and **incredibly helpful**!
 
-[^1]: Sometimes (often previously) known under the alias `filfat`, mostly from way back in the day and mainly on homebrew forums like [gbatemp](https://gbatemp.net/members/filfat.318416/).
+My open source presence mainly consists of working on whatever I find interesting at that specific moment in time and have happened to grab my attention, so you can never really tell what kind of projects the future holds for me. But if you'd like to try you can checkout my [recent](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Afiliphsps&type=pullrequests&s=created&o=desc) pull requests weird as they may or may not be.
 
 <!---
 ### How We Got Here
 
 Since starting out with software development as a very young kid[^2], I have pretty much managed to work on everything and anything from homebrew apps and games[^3], to a _(really bad)_[^4] HTML renderer [NXTBrowser](https://github.com/filiphsps/NXTBrowser), to the Minecraft Bedrock Edition server software [JSPrismarine](https://github.com/JSPrismarine/JSPrismarine) written entirely in TypeScript, to react components like [react-tender](https://github.com/NordcomInc/react-tender) and utilities like [react-shopify-analytics](https://github.com/NordcomInc/react-shopify-analytics), to just useful and simple [npm packages](https://www.npmjs.com/~filiphsandstrom), to a operating system [SerenityOS](https://github.com/SerenityOS/serenity/commits/master/?author=filiphsps), to a Windows Shell replacement with live-tiles [AdaptiveShell](https://github.com/filiphsps/AdaptiveShell).
 
-[^2]: I started coding at 7 or 8 years old though I didn't really do anything before around the age of 10/11.
+[^2]: I started coding at 7 or 8 years old though I didn't really do anything till around the age of 10/11-ish if you don't count smaller text-based games and general scripting.
 [^3]: e.g. [WiiCraft](https://github.com/filiphsps/WiiCraft) and [DownloadMii](https://github.com/filiphsps/DownloadMii-3DS), projects I used to work on in my free time as a young-ish teenager.
 [^4]: Citation Needed, [xkcd 285](https://xkcd.com/285/).
 --->
 
-## Some Open Source Project(s)
+---
 
-- [nordstar](https://github.com/NordcomInc/nordstar): Nordcom AB's component library. A modern, accessible, beautiful, and flexible design system for building human user interfaces in Next.js.
-- [nordcom](https://github.com/NordcomInc?q=&type=public&language=&sort=): Bunch of minor projects and packages created as a part of or thanks to a startup we're building.
-- [and more](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Afiliphsps&type=pullrequests&s=comments&o=desc).
+## Contact me if you'd like!
 
-## Sponsor My Work
-
-If you like any of my open source work and enable me to spend even more time on it (thank you) you can support me through [GitHub Sponsors](https://github.com/sponsors/filiphsps). It's very much appreciated and **incredibly helpful** as it allows me to spend even more time on open source!
-
-## Contact
-
-The best way to get in contact with me is either through _filiph.sandstrom[at]filfatstudios.com_ or for non-business related inquires better yet on [X (Twitter)](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
+The best way to get in contact with me is either through _filfat[at]hotmail.se_ or for non-business related inquires better yet on [X (Twitter)](https://twitter.com/filiphsandstrom). Feel free to contact me for pretty much any reason like, freelancing work, to discuss a project, or literally whatever else you might have get in contact with me for!
 
 ![](https://hit.yhype.me/github/profile?user_id=108444335)
 
